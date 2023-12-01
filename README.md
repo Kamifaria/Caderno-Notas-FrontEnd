@@ -24,7 +24,7 @@ Acesse http://localhost:3000 em seu navegador para usar o caderno de notas.
 
 ## Imagens do projeto
 
-![Alt text](https://github.com/Kamifaria/Caderno-Notas-FrontEnd/github/assets/demo_1.jpg?raw=true "Title")
+![Alt text](https://github.com/Kamifaria/Caderno-Notas-FrontEnd/blob/main/github/assets/demo_1.jpg?raw=true "Title")
 
 ## Funcionalidades
 
