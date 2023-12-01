@@ -1,0 +1,107 @@
+li.notepad-infos div{
+    display: flex;
+    justify-content:space-between ;
+  }
+  
+  li.notepad-infos-priority div{
+    display: flex;
+    justify-content:space-between ;
+  }
+  
+  
+  li.notepad-infos {
+    background: #fff;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+    padding: 20px 20px 10px 20px;
+  }
+  li.notepad-infos-priority {
+    background: #fff;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+    padding: 20px 20px 10px 20px;
+  }
+  
+  li.notepad-infos-priority {
+    background: #EB8F7A;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+    padding: 20px 20px 10px 20px;
+  }
+  
+  .notepad-infos strong {
+    display: block;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .notepad-infos-priority strong {
+    display: block;
+    font-size: 16px;
+    color: #fff;
+  }
+  
+  li.notepad-infos div div {
+    color:#FFEAE6;
+  }
+  
+  li.notepad-infos-priority div div {
+    color:#fff;
+  }
+  
+  li.notepad-infos div div:hover {
+    color: #EB8F7A;
+    transition: 0.2s;
+  }
+  
+  li.notepad-infos-priority div div:hover {
+    color: #fff;
+    transition: 0.2s;
+  }
+  
+  .notepad-infos textarea {
+    padding: 7px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    width: 100%;  
+    height: 130px;
+    font-size: 14px;
+    color: #666;
+    border: 0;
+    background: #fff;
+    resize:none;
+  }
+  
+  .notepad-infos textarea:hover {
+    cursor: default;
+  }
+  
+  .notepad-infos-priority textarea {
+    padding: 7px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    width: 100%;  
+    height: 130px;
+    font-size: 14px;
+    color: #fff;
+    border: 0;
+    background: #EB8F7A;
+    resize:none;
+  }
+  
+  .buttonEdit{
+    margin-left: 10px;
+  }
+  
+  .notepad-infos p {
+    color: #c4c4c4;
+  }
+  
+  .notepad-infos-priority p {
+    color: #FFEAE6;
+  }
+  
+  .notepad-infos-priority p:hover {
+    transition: 0.2s;
+    color: #fff;
+  }
